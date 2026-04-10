@@ -1,0 +1,2598 @@
+{
+  "Panadol": {
+    "scientific": "Paracetamol",
+    "use": "مسكن وخافض حرارة",
+    "side_effects": "أذية كبد عند الجرعات العالية",
+    "pregnancy": "آمن نسبيًا",
+    "brand_alternatives": [
+      "Fevadol",
+      "Adol"
+    ],
+    "scientific_alternatives": [
+      "Ibuprofen"
+    ]
+  },
+  "Brufen": {
+    "scientific": "Ibuprofen",
+    "use": "مسكن ومضاد التهاب",
+    "side_effects": "قرحة معدة",
+    "pregnancy": "يُتجنب في الثلث الأخير",
+    "brand_alternatives": [
+      "Advil",
+      "Nurofen"
+    ],
+    "scientific_alternatives": [
+      "Paracetamol"
+    ]
+  },
+  "Augmentin": {
+    "scientific": "Amoxicillin + Clavulanate",
+    "use": "مضاد حيوي واسع الطيف",
+    "side_effects": "إسهال",
+    "pregnancy": "آمن",
+    "brand_alternatives": [
+      "Curam"
+    ],
+    "scientific_alternatives": [
+      "Azithromycin"
+    ]
+  },
+  "Amoxicillin": {
+    "scientific": "Amoxicillin",
+    "use": "مضاد حيوي",
+    "side_effects": "طفح جلدي",
+    "pregnancy": "آمن",
+    "brand_alternatives": [
+      "Amoxil"
+    ],
+    "scientific_alternatives": [
+      "Cefuroxime"
+    ]
+  },
+  "Ciprofloxacin": {
+    "scientific": "Ciprofloxacin",
+    "use": "مضاد حيوي",
+    "side_effects": "دوخة",
+    "pregnancy": "غير آمن",
+    "brand_alternatives": [
+      "Ciproxin"
+    ],
+    "scientific_alternatives": [
+      "Levofloxacin"
+    ]
+  },
+  "Metformin": {
+    "scientific": "Metformin",
+    "use": "سكري النوع الثاني",
+    "side_effects": "اضطراب معدة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Glucophage"
+    ],
+    "scientific_alternatives": [
+      "Insulin"
+    ]
+  },
+  "Drug7": {
+    "scientific": "GenericCompound7",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand7A",
+      "Brand7B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound7"
+    ]
+  },
+  "Drug8": {
+    "scientific": "GenericCompound8",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand8A",
+      "Brand8B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound8"
+    ]
+  },
+  "Drug9": {
+    "scientific": "GenericCompound9",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand9A",
+      "Brand9B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound9"
+    ]
+  },
+  "Drug10": {
+    "scientific": "GenericCompound10",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand10A",
+      "Brand10B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound10"
+    ]
+  },
+  "Drug11": {
+    "scientific": "GenericCompound11",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand11A",
+      "Brand11B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound11"
+    ]
+  },
+  "Drug12": {
+    "scientific": "GenericCompound12",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand12A",
+      "Brand12B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound12"
+    ]
+  },
+  "Drug13": {
+    "scientific": "GenericCompound13",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand13A",
+      "Brand13B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound13"
+    ]
+  },
+  "Drug14": {
+    "scientific": "GenericCompound14",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand14A",
+      "Brand14B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound14"
+    ]
+  },
+  "Drug15": {
+    "scientific": "GenericCompound15",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand15A",
+      "Brand15B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound15"
+    ]
+  },
+  "Drug16": {
+    "scientific": "GenericCompound16",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand16A",
+      "Brand16B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound16"
+    ]
+  },
+  "Drug17": {
+    "scientific": "GenericCompound17",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand17A",
+      "Brand17B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound17"
+    ]
+  },
+  "Drug18": {
+    "scientific": "GenericCompound18",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand18A",
+      "Brand18B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound18"
+    ]
+  },
+  "Drug19": {
+    "scientific": "GenericCompound19",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand19A",
+      "Brand19B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound19"
+    ]
+  },
+  "Drug20": {
+    "scientific": "GenericCompound20",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand20A",
+      "Brand20B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound20"
+    ]
+  },
+  "Drug21": {
+    "scientific": "GenericCompound21",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand21A",
+      "Brand21B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound21"
+    ]
+  },
+  "Drug22": {
+    "scientific": "GenericCompound22",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand22A",
+      "Brand22B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound22"
+    ]
+  },
+  "Drug23": {
+    "scientific": "GenericCompound23",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand23A",
+      "Brand23B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound23"
+    ]
+  },
+  "Drug24": {
+    "scientific": "GenericCompound24",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand24A",
+      "Brand24B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound24"
+    ]
+  },
+  "Drug25": {
+    "scientific": "GenericCompound25",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand25A",
+      "Brand25B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound25"
+    ]
+  },
+  "Drug26": {
+    "scientific": "GenericCompound26",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand26A",
+      "Brand26B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound26"
+    ]
+  },
+  "Drug27": {
+    "scientific": "GenericCompound27",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand27A",
+      "Brand27B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound27"
+    ]
+  },
+  "Drug28": {
+    "scientific": "GenericCompound28",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand28A",
+      "Brand28B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound28"
+    ]
+  },
+  "Drug29": {
+    "scientific": "GenericCompound29",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand29A",
+      "Brand29B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound29"
+    ]
+  },
+  "Drug30": {
+    "scientific": "GenericCompound30",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand30A",
+      "Brand30B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound30"
+    ]
+  },
+  "Drug31": {
+    "scientific": "GenericCompound31",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand31A",
+      "Brand31B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound31"
+    ]
+  },
+  "Drug32": {
+    "scientific": "GenericCompound32",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand32A",
+      "Brand32B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound32"
+    ]
+  },
+  "Drug33": {
+    "scientific": "GenericCompound33",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand33A",
+      "Brand33B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound33"
+    ]
+  },
+  "Drug34": {
+    "scientific": "GenericCompound34",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand34A",
+      "Brand34B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound34"
+    ]
+  },
+  "Drug35": {
+    "scientific": "GenericCompound35",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand35A",
+      "Brand35B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound35"
+    ]
+  },
+  "Drug36": {
+    "scientific": "GenericCompound36",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand36A",
+      "Brand36B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound36"
+    ]
+  },
+  "Drug37": {
+    "scientific": "GenericCompound37",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand37A",
+      "Brand37B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound37"
+    ]
+  },
+  "Drug38": {
+    "scientific": "GenericCompound38",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand38A",
+      "Brand38B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound38"
+    ]
+  },
+  "Drug39": {
+    "scientific": "GenericCompound39",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand39A",
+      "Brand39B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound39"
+    ]
+  },
+  "Drug40": {
+    "scientific": "GenericCompound40",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand40A",
+      "Brand40B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound40"
+    ]
+  },
+  "Drug41": {
+    "scientific": "GenericCompound41",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand41A",
+      "Brand41B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound41"
+    ]
+  },
+  "Drug42": {
+    "scientific": "GenericCompound42",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand42A",
+      "Brand42B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound42"
+    ]
+  },
+  "Drug43": {
+    "scientific": "GenericCompound43",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand43A",
+      "Brand43B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound43"
+    ]
+  },
+  "Drug44": {
+    "scientific": "GenericCompound44",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand44A",
+      "Brand44B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound44"
+    ]
+  },
+  "Drug45": {
+    "scientific": "GenericCompound45",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand45A",
+      "Brand45B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound45"
+    ]
+  },
+  "Drug46": {
+    "scientific": "GenericCompound46",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand46A",
+      "Brand46B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound46"
+    ]
+  },
+  "Drug47": {
+    "scientific": "GenericCompound47",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand47A",
+      "Brand47B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound47"
+    ]
+  },
+  "Drug48": {
+    "scientific": "GenericCompound48",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand48A",
+      "Brand48B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound48"
+    ]
+  },
+  "Drug49": {
+    "scientific": "GenericCompound49",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand49A",
+      "Brand49B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound49"
+    ]
+  },
+  "Drug50": {
+    "scientific": "GenericCompound50",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand50A",
+      "Brand50B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound50"
+    ]
+  },
+  "Drug51": {
+    "scientific": "GenericCompound51",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand51A",
+      "Brand51B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound51"
+    ]
+  },
+  "Drug52": {
+    "scientific": "GenericCompound52",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand52A",
+      "Brand52B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound52"
+    ]
+  },
+  "Drug53": {
+    "scientific": "GenericCompound53",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand53A",
+      "Brand53B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound53"
+    ]
+  },
+  "Drug54": {
+    "scientific": "GenericCompound54",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand54A",
+      "Brand54B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound54"
+    ]
+  },
+  "Drug55": {
+    "scientific": "GenericCompound55",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand55A",
+      "Brand55B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound55"
+    ]
+  },
+  "Drug56": {
+    "scientific": "GenericCompound56",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand56A",
+      "Brand56B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound56"
+    ]
+  },
+  "Drug57": {
+    "scientific": "GenericCompound57",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand57A",
+      "Brand57B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound57"
+    ]
+  },
+  "Drug58": {
+    "scientific": "GenericCompound58",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand58A",
+      "Brand58B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound58"
+    ]
+  },
+  "Drug59": {
+    "scientific": "GenericCompound59",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand59A",
+      "Brand59B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound59"
+    ]
+  },
+  "Drug60": {
+    "scientific": "GenericCompound60",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand60A",
+      "Brand60B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound60"
+    ]
+  },
+  "Drug61": {
+    "scientific": "GenericCompound61",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand61A",
+      "Brand61B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound61"
+    ]
+  },
+  "Drug62": {
+    "scientific": "GenericCompound62",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand62A",
+      "Brand62B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound62"
+    ]
+  },
+  "Drug63": {
+    "scientific": "GenericCompound63",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand63A",
+      "Brand63B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound63"
+    ]
+  },
+  "Drug64": {
+    "scientific": "GenericCompound64",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand64A",
+      "Brand64B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound64"
+    ]
+  },
+  "Drug65": {
+    "scientific": "GenericCompound65",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand65A",
+      "Brand65B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound65"
+    ]
+  },
+  "Drug66": {
+    "scientific": "GenericCompound66",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand66A",
+      "Brand66B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound66"
+    ]
+  },
+  "Drug67": {
+    "scientific": "GenericCompound67",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand67A",
+      "Brand67B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound67"
+    ]
+  },
+  "Drug68": {
+    "scientific": "GenericCompound68",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand68A",
+      "Brand68B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound68"
+    ]
+  },
+  "Drug69": {
+    "scientific": "GenericCompound69",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand69A",
+      "Brand69B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound69"
+    ]
+  },
+  "Drug70": {
+    "scientific": "GenericCompound70",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand70A",
+      "Brand70B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound70"
+    ]
+  },
+  "Drug71": {
+    "scientific": "GenericCompound71",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand71A",
+      "Brand71B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound71"
+    ]
+  },
+  "Drug72": {
+    "scientific": "GenericCompound72",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand72A",
+      "Brand72B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound72"
+    ]
+  },
+  "Drug73": {
+    "scientific": "GenericCompound73",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand73A",
+      "Brand73B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound73"
+    ]
+  },
+  "Drug74": {
+    "scientific": "GenericCompound74",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand74A",
+      "Brand74B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound74"
+    ]
+  },
+  "Drug75": {
+    "scientific": "GenericCompound75",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand75A",
+      "Brand75B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound75"
+    ]
+  },
+  "Drug76": {
+    "scientific": "GenericCompound76",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand76A",
+      "Brand76B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound76"
+    ]
+  },
+  "Drug77": {
+    "scientific": "GenericCompound77",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand77A",
+      "Brand77B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound77"
+    ]
+  },
+  "Drug78": {
+    "scientific": "GenericCompound78",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand78A",
+      "Brand78B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound78"
+    ]
+  },
+  "Drug79": {
+    "scientific": "GenericCompound79",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand79A",
+      "Brand79B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound79"
+    ]
+  },
+  "Drug80": {
+    "scientific": "GenericCompound80",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand80A",
+      "Brand80B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound80"
+    ]
+  },
+  "Drug81": {
+    "scientific": "GenericCompound81",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand81A",
+      "Brand81B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound81"
+    ]
+  },
+  "Drug82": {
+    "scientific": "GenericCompound82",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand82A",
+      "Brand82B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound82"
+    ]
+  },
+  "Drug83": {
+    "scientific": "GenericCompound83",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand83A",
+      "Brand83B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound83"
+    ]
+  },
+  "Drug84": {
+    "scientific": "GenericCompound84",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand84A",
+      "Brand84B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound84"
+    ]
+  },
+  "Drug85": {
+    "scientific": "GenericCompound85",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand85A",
+      "Brand85B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound85"
+    ]
+  },
+  "Drug86": {
+    "scientific": "GenericCompound86",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand86A",
+      "Brand86B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound86"
+    ]
+  },
+  "Drug87": {
+    "scientific": "GenericCompound87",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand87A",
+      "Brand87B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound87"
+    ]
+  },
+  "Drug88": {
+    "scientific": "GenericCompound88",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand88A",
+      "Brand88B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound88"
+    ]
+  },
+  "Drug89": {
+    "scientific": "GenericCompound89",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand89A",
+      "Brand89B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound89"
+    ]
+  },
+  "Drug90": {
+    "scientific": "GenericCompound90",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand90A",
+      "Brand90B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound90"
+    ]
+  },
+  "Drug91": {
+    "scientific": "GenericCompound91",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand91A",
+      "Brand91B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound91"
+    ]
+  },
+  "Drug92": {
+    "scientific": "GenericCompound92",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand92A",
+      "Brand92B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound92"
+    ]
+  },
+  "Drug93": {
+    "scientific": "GenericCompound93",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand93A",
+      "Brand93B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound93"
+    ]
+  },
+  "Drug94": {
+    "scientific": "GenericCompound94",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand94A",
+      "Brand94B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound94"
+    ]
+  },
+  "Drug95": {
+    "scientific": "GenericCompound95",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand95A",
+      "Brand95B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound95"
+    ]
+  },
+  "Drug96": {
+    "scientific": "GenericCompound96",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand96A",
+      "Brand96B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound96"
+    ]
+  },
+  "Drug97": {
+    "scientific": "GenericCompound97",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand97A",
+      "Brand97B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound97"
+    ]
+  },
+  "Drug98": {
+    "scientific": "GenericCompound98",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand98A",
+      "Brand98B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound98"
+    ]
+  },
+  "Drug99": {
+    "scientific": "GenericCompound99",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand99A",
+      "Brand99B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound99"
+    ]
+  },
+  "Drug100": {
+    "scientific": "GenericCompound100",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand100A",
+      "Brand100B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound100"
+    ]
+  },
+  "Drug101": {
+    "scientific": "GenericCompound101",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand101A",
+      "Brand101B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound101"
+    ]
+  },
+  "Drug102": {
+    "scientific": "GenericCompound102",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand102A",
+      "Brand102B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound102"
+    ]
+  },
+  "Drug103": {
+    "scientific": "GenericCompound103",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand103A",
+      "Brand103B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound103"
+    ]
+  },
+  "Drug104": {
+    "scientific": "GenericCompound104",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand104A",
+      "Brand104B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound104"
+    ]
+  },
+  "Drug105": {
+    "scientific": "GenericCompound105",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand105A",
+      "Brand105B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound105"
+    ]
+  },
+  "Drug106": {
+    "scientific": "GenericCompound106",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand106A",
+      "Brand106B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound106"
+    ]
+  },
+  "Drug107": {
+    "scientific": "GenericCompound107",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand107A",
+      "Brand107B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound107"
+    ]
+  },
+  "Drug108": {
+    "scientific": "GenericCompound108",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand108A",
+      "Brand108B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound108"
+    ]
+  },
+  "Drug109": {
+    "scientific": "GenericCompound109",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand109A",
+      "Brand109B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound109"
+    ]
+  },
+  "Drug110": {
+    "scientific": "GenericCompound110",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand110A",
+      "Brand110B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound110"
+    ]
+  },
+  "Drug111": {
+    "scientific": "GenericCompound111",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand111A",
+      "Brand111B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound111"
+    ]
+  },
+  "Drug112": {
+    "scientific": "GenericCompound112",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand112A",
+      "Brand112B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound112"
+    ]
+  },
+  "Drug113": {
+    "scientific": "GenericCompound113",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand113A",
+      "Brand113B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound113"
+    ]
+  },
+  "Drug114": {
+    "scientific": "GenericCompound114",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand114A",
+      "Brand114B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound114"
+    ]
+  },
+  "Drug115": {
+    "scientific": "GenericCompound115",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand115A",
+      "Brand115B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound115"
+    ]
+  },
+  "Drug116": {
+    "scientific": "GenericCompound116",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand116A",
+      "Brand116B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound116"
+    ]
+  },
+  "Drug117": {
+    "scientific": "GenericCompound117",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand117A",
+      "Brand117B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound117"
+    ]
+  },
+  "Drug118": {
+    "scientific": "GenericCompound118",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand118A",
+      "Brand118B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound118"
+    ]
+  },
+  "Drug119": {
+    "scientific": "GenericCompound119",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand119A",
+      "Brand119B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound119"
+    ]
+  },
+  "Drug120": {
+    "scientific": "GenericCompound120",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand120A",
+      "Brand120B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound120"
+    ]
+  },
+  "Drug121": {
+    "scientific": "GenericCompound121",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand121A",
+      "Brand121B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound121"
+    ]
+  },
+  "Drug122": {
+    "scientific": "GenericCompound122",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand122A",
+      "Brand122B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound122"
+    ]
+  },
+  "Drug123": {
+    "scientific": "GenericCompound123",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand123A",
+      "Brand123B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound123"
+    ]
+  },
+  "Drug124": {
+    "scientific": "GenericCompound124",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand124A",
+      "Brand124B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound124"
+    ]
+  },
+  "Drug125": {
+    "scientific": "GenericCompound125",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand125A",
+      "Brand125B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound125"
+    ]
+  },
+  "Drug126": {
+    "scientific": "GenericCompound126",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand126A",
+      "Brand126B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound126"
+    ]
+  },
+  "Drug127": {
+    "scientific": "GenericCompound127",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand127A",
+      "Brand127B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound127"
+    ]
+  },
+  "Drug128": {
+    "scientific": "GenericCompound128",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand128A",
+      "Brand128B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound128"
+    ]
+  },
+  "Drug129": {
+    "scientific": "GenericCompound129",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand129A",
+      "Brand129B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound129"
+    ]
+  },
+  "Drug130": {
+    "scientific": "GenericCompound130",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand130A",
+      "Brand130B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound130"
+    ]
+  },
+  "Drug131": {
+    "scientific": "GenericCompound131",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand131A",
+      "Brand131B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound131"
+    ]
+  },
+  "Drug132": {
+    "scientific": "GenericCompound132",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand132A",
+      "Brand132B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound132"
+    ]
+  },
+  "Drug133": {
+    "scientific": "GenericCompound133",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand133A",
+      "Brand133B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound133"
+    ]
+  },
+  "Drug134": {
+    "scientific": "GenericCompound134",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand134A",
+      "Brand134B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound134"
+    ]
+  },
+  "Drug135": {
+    "scientific": "GenericCompound135",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand135A",
+      "Brand135B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound135"
+    ]
+  },
+  "Drug136": {
+    "scientific": "GenericCompound136",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand136A",
+      "Brand136B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound136"
+    ]
+  },
+  "Drug137": {
+    "scientific": "GenericCompound137",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand137A",
+      "Brand137B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound137"
+    ]
+  },
+  "Drug138": {
+    "scientific": "GenericCompound138",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand138A",
+      "Brand138B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound138"
+    ]
+  },
+  "Drug139": {
+    "scientific": "GenericCompound139",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand139A",
+      "Brand139B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound139"
+    ]
+  },
+  "Drug140": {
+    "scientific": "GenericCompound140",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand140A",
+      "Brand140B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound140"
+    ]
+  },
+  "Drug141": {
+    "scientific": "GenericCompound141",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand141A",
+      "Brand141B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound141"
+    ]
+  },
+  "Drug142": {
+    "scientific": "GenericCompound142",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand142A",
+      "Brand142B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound142"
+    ]
+  },
+  "Drug143": {
+    "scientific": "GenericCompound143",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand143A",
+      "Brand143B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound143"
+    ]
+  },
+  "Drug144": {
+    "scientific": "GenericCompound144",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand144A",
+      "Brand144B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound144"
+    ]
+  },
+  "Drug145": {
+    "scientific": "GenericCompound145",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand145A",
+      "Brand145B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound145"
+    ]
+  },
+  "Drug146": {
+    "scientific": "GenericCompound146",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand146A",
+      "Brand146B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound146"
+    ]
+  },
+  "Drug147": {
+    "scientific": "GenericCompound147",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand147A",
+      "Brand147B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound147"
+    ]
+  },
+  "Drug148": {
+    "scientific": "GenericCompound148",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand148A",
+      "Brand148B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound148"
+    ]
+  },
+  "Drug149": {
+    "scientific": "GenericCompound149",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand149A",
+      "Brand149B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound149"
+    ]
+  },
+  "Drug150": {
+    "scientific": "GenericCompound150",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand150A",
+      "Brand150B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound150"
+    ]
+  },
+  "Drug151": {
+    "scientific": "GenericCompound151",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand151A",
+      "Brand151B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound151"
+    ]
+  },
+  "Drug152": {
+    "scientific": "GenericCompound152",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand152A",
+      "Brand152B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound152"
+    ]
+  },
+  "Drug153": {
+    "scientific": "GenericCompound153",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand153A",
+      "Brand153B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound153"
+    ]
+  },
+  "Drug154": {
+    "scientific": "GenericCompound154",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand154A",
+      "Brand154B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound154"
+    ]
+  },
+  "Drug155": {
+    "scientific": "GenericCompound155",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand155A",
+      "Brand155B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound155"
+    ]
+  },
+  "Drug156": {
+    "scientific": "GenericCompound156",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand156A",
+      "Brand156B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound156"
+    ]
+  },
+  "Drug157": {
+    "scientific": "GenericCompound157",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand157A",
+      "Brand157B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound157"
+    ]
+  },
+  "Drug158": {
+    "scientific": "GenericCompound158",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand158A",
+      "Brand158B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound158"
+    ]
+  },
+  "Drug159": {
+    "scientific": "GenericCompound159",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand159A",
+      "Brand159B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound159"
+    ]
+  },
+  "Drug160": {
+    "scientific": "GenericCompound160",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand160A",
+      "Brand160B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound160"
+    ]
+  },
+  "Drug161": {
+    "scientific": "GenericCompound161",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand161A",
+      "Brand161B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound161"
+    ]
+  },
+  "Drug162": {
+    "scientific": "GenericCompound162",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand162A",
+      "Brand162B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound162"
+    ]
+  },
+  "Drug163": {
+    "scientific": "GenericCompound163",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand163A",
+      "Brand163B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound163"
+    ]
+  },
+  "Drug164": {
+    "scientific": "GenericCompound164",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand164A",
+      "Brand164B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound164"
+    ]
+  },
+  "Drug165": {
+    "scientific": "GenericCompound165",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand165A",
+      "Brand165B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound165"
+    ]
+  },
+  "Drug166": {
+    "scientific": "GenericCompound166",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand166A",
+      "Brand166B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound166"
+    ]
+  },
+  "Drug167": {
+    "scientific": "GenericCompound167",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand167A",
+      "Brand167B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound167"
+    ]
+  },
+  "Drug168": {
+    "scientific": "GenericCompound168",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand168A",
+      "Brand168B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound168"
+    ]
+  },
+  "Drug169": {
+    "scientific": "GenericCompound169",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand169A",
+      "Brand169B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound169"
+    ]
+  },
+  "Drug170": {
+    "scientific": "GenericCompound170",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand170A",
+      "Brand170B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound170"
+    ]
+  },
+  "Drug171": {
+    "scientific": "GenericCompound171",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand171A",
+      "Brand171B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound171"
+    ]
+  },
+  "Drug172": {
+    "scientific": "GenericCompound172",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand172A",
+      "Brand172B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound172"
+    ]
+  },
+  "Drug173": {
+    "scientific": "GenericCompound173",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand173A",
+      "Brand173B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound173"
+    ]
+  },
+  "Drug174": {
+    "scientific": "GenericCompound174",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand174A",
+      "Brand174B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound174"
+    ]
+  },
+  "Drug175": {
+    "scientific": "GenericCompound175",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand175A",
+      "Brand175B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound175"
+    ]
+  },
+  "Drug176": {
+    "scientific": "GenericCompound176",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand176A",
+      "Brand176B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound176"
+    ]
+  },
+  "Drug177": {
+    "scientific": "GenericCompound177",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand177A",
+      "Brand177B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound177"
+    ]
+  },
+  "Drug178": {
+    "scientific": "GenericCompound178",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand178A",
+      "Brand178B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound178"
+    ]
+  },
+  "Drug179": {
+    "scientific": "GenericCompound179",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand179A",
+      "Brand179B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound179"
+    ]
+  },
+  "Drug180": {
+    "scientific": "GenericCompound180",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand180A",
+      "Brand180B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound180"
+    ]
+  },
+  "Drug181": {
+    "scientific": "GenericCompound181",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand181A",
+      "Brand181B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound181"
+    ]
+  },
+  "Drug182": {
+    "scientific": "GenericCompound182",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand182A",
+      "Brand182B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound182"
+    ]
+  },
+  "Drug183": {
+    "scientific": "GenericCompound183",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand183A",
+      "Brand183B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound183"
+    ]
+  },
+  "Drug184": {
+    "scientific": "GenericCompound184",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand184A",
+      "Brand184B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound184"
+    ]
+  },
+  "Drug185": {
+    "scientific": "GenericCompound185",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand185A",
+      "Brand185B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound185"
+    ]
+  },
+  "Drug186": {
+    "scientific": "GenericCompound186",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand186A",
+      "Brand186B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound186"
+    ]
+  },
+  "Drug187": {
+    "scientific": "GenericCompound187",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand187A",
+      "Brand187B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound187"
+    ]
+  },
+  "Drug188": {
+    "scientific": "GenericCompound188",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand188A",
+      "Brand188B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound188"
+    ]
+  },
+  "Drug189": {
+    "scientific": "GenericCompound189",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand189A",
+      "Brand189B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound189"
+    ]
+  },
+  "Drug190": {
+    "scientific": "GenericCompound190",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand190A",
+      "Brand190B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound190"
+    ]
+  },
+  "Drug191": {
+    "scientific": "GenericCompound191",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand191A",
+      "Brand191B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound191"
+    ]
+  },
+  "Drug192": {
+    "scientific": "GenericCompound192",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand192A",
+      "Brand192B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound192"
+    ]
+  },
+  "Drug193": {
+    "scientific": "GenericCompound193",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand193A",
+      "Brand193B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound193"
+    ]
+  },
+  "Drug194": {
+    "scientific": "GenericCompound194",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand194A",
+      "Brand194B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound194"
+    ]
+  },
+  "Drug195": {
+    "scientific": "GenericCompound195",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand195A",
+      "Brand195B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound195"
+    ]
+  },
+  "Drug196": {
+    "scientific": "GenericCompound196",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand196A",
+      "Brand196B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound196"
+    ]
+  },
+  "Drug197": {
+    "scientific": "GenericCompound197",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand197A",
+      "Brand197B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound197"
+    ]
+  },
+  "Drug198": {
+    "scientific": "GenericCompound198",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand198A",
+      "Brand198B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound198"
+    ]
+  },
+  "Drug199": {
+    "scientific": "GenericCompound199",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand199A",
+      "Brand199B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound199"
+    ]
+  },
+  "Drug200": {
+    "scientific": "GenericCompound200",
+    "use": "استخدام دوائي عام",
+    "side_effects": "آثار جانبية خفيفة",
+    "pregnancy": "بحذر",
+    "brand_alternatives": [
+      "Brand200A",
+      "Brand200B"
+    ],
+    "scientific_alternatives": [
+      "AltCompound200"
+    ]
+  }
+}
